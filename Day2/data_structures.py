@@ -282,8 +282,11 @@ if __name__ == "__main__":
 #      d. A user record containing a name, age, and email
 
 # SOL
-# The answers are
-
+# The answers are 
+# a. Tuple
+# b. Set
+# c. List
+# d. Dictionary
 
 # =============================================================================
 # ANSWER KEY
