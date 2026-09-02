@@ -1,0 +1,3 @@
+Python can read a whole file at once.
+It can also read one line at a time.
+The with statement closes the file safely.

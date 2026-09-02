@@ -1,0 +1,2 @@
+# Pillow is used only by the Day 3 image demonstration.
+Pillow>=10.0

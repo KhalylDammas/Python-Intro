@@ -1,0 +1,4 @@
+File handling lesson
+- read text
+- write text
+- append text

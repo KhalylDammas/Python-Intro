@@ -1,0 +1,15 @@
+{
+  "course_name": "Python Introduction",
+  "day": 3,
+  "completed": true,
+  "topics": [
+    "text files",
+    "JSON",
+    "CSV",
+    "images"
+  ],
+  "instructor": {
+    "name": "Course Instructor",
+    "location": "Al Khobar"
+  }
+}
