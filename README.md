@@ -8,6 +8,7 @@ examples used during class.
 | Day | Topic | Main material |
 | --- | --- | --- |
 | Day 1 | Python basics and classes | [`Day1/`](Day1/) |
+| Week 1 Review | Control flow, loops, and input | [review lesson](Week1_Review/README.md) |
 | Day 2 | Core data structures | [`data_structures.py`](Day2/data_structures.py) |
 | Day 3 | Text, JSON, CSV, and image files | [Day 3 lesson](Day3/README.md) |
 | Day 4 | Git, GitHub CLI, and collaboration | [Day 4 lesson](Day4/README.md) |
